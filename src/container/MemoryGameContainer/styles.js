@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "styles-components";
 
 export const MainContainer = styled.div`
   width: 100vw;
